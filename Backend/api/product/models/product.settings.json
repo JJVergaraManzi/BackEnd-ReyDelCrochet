@@ -28,6 +28,10 @@
     },
     "creationDate": {
       "type": "date"
+    },
+    "categories": {
+      "via": "products",
+      "collection": "category"
     }
   }
 }
