@@ -19,6 +19,9 @@
       "collection": "product",
       "via": "categories",
       "dominant": true
+    },
+    "CategoryID": {
+      "type": "uid"
     }
   }
 }
